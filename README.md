@@ -1,16 +1,17 @@
 # Hi, I'm Manasa Varala 👋
 
-## Data Engineering • Full-Stack Development • AI
+### Data Engineering • Software & Full-Stack Development • AI
 
-I build reliable data pipelines, intelligent applications, and end-to-end software using **Python, SQL, React, FastAPI, PostgreSQL, AWS, and modern AI/LLM technologies**.
+I build reliable data pipelines, scalable full-stack applications, and intelligent AI-powered solutions using modern technologies.
 
 🔭 Building production-style Data Engineering & Full-Stack projects  
-🤖 Exploring AI agents, RAG & LLM-powered applications  
-⚙️ Interested in scalable backend systems and data platforms  
+🤖 Exploring AI Agents, RAG & LLM-powered applications  
+⚙️ Interested in scalable data platforms, backend systems & intelligent automation  
 🌱 Continuously learning by building real-world projects
+
 ## 🛠️ Tech Stack
 
-**Languages:** Python • SQL • JavaScript • TypeScript
+**Languages:** Python • Java • SQL • JavaScript • TypeScript
 
 **Data Engineering:** Pandas • PySpark • Airflow • ETL/ELT • Data Quality
 
@@ -23,14 +24,9 @@ I build reliable data pipelines, intelligent applications, and end-to-end softwa
 **Cloud & DevOps:** AWS • Docker • Git • GitHub Actions
 
 **AI:** LLMs • RAG • AI Agents
-## 🛠️ Tech Stack
 
-**Languages:** Python • SQL • JavaScript
+## 🚀 Currently Exploring
 
-**Data Engineering:** Pandas • ETL/ELT • Data Quality
+FastAPI • React • Docker • RAG • AI Agents
 
-**Databases:** PostgreSQL
 
-**Tools:** Git • GitHub • Pytest
-
-**Currently Learning:** FastAPI • React • Docker • AI Agents
