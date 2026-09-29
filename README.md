@@ -1,6 +1,6 @@
 # Hi, I'm Manasa Varala 👋
 
-### Data Engineering • Software & Full-Stack Development • AI
+AI Data Engineering • Data Platforms • LLM Applications
 
 I build reliable data pipelines, scalable full-stack applications, and intelligent AI-powered solutions using modern technologies.
 
